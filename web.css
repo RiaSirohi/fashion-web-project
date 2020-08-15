@@ -201,7 +201,7 @@ select {
   float: inline-start;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1500px) {
   .add {
     height: 150px;
     width: 100px;
@@ -226,7 +226,7 @@ select {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1500px) {
   #search {
     display: block;
   }
