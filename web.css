@@ -226,6 +226,9 @@ select {
     #search {
         display: block;
     }
+  #srch {
+        display: none
+    }
 }
 
 .footer {
